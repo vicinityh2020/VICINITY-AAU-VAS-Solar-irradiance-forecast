@@ -40,4 +40,3 @@ After subscribing the VAS successfully, the subscriber receives a response for i
     "value": "843",  
     "time": "2018-11-10 11:30:29"  
 }
-
