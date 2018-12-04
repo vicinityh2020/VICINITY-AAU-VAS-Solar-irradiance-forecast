@@ -24,7 +24,7 @@ Start version, it works with agent-service-full-0.6.3.jar. The VAS publishes an 
             GET : /remote/objects/{oid}/properties/{pid}
 ### Return:
 After executing GET method, a response can be received, for instance:  
-properties/PV_ActivePower
+properties/PV_ActivePower:
 {  
     "value": "1",  
     "time": "2018-11-10 11:30:29"  
